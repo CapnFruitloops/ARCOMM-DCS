@@ -1,7 +1,5 @@
 # ARCOMM-DCS
-ARCOMM DCS Missions
-
- All files in repository are ARCOMM DCS missions on rotation on the Loops ARCOMM Server. 
+ARCOMM DCS Missions 
 
 All missions are named with the same format, which is as follows:
 
